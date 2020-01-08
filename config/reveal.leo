@@ -300,7 +300,12 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20200108184720.1"></t>
+<t tx="leo.20200108184720.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
 <t tx="leo.20200108191741.1">## 心得
 
 ### 第17w的重點主要是用DART程式畫國旗，雖然我還不太會畫國旗，不過我會多問同學讓自己更熟悉。</t>
