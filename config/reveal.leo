@@ -70,9 +70,9 @@ Created by [40823235](https://40823235.github.io/cp2019/content/index.html)
 <t tx="leo.20180902120523.12"># 目錄
 
 * [重量轉換](https://40823235.github.io/cp2019/reveal/index.html#/2)
-* [溫度轉換](https://40823235.github.io/cp2019/reveal/index.html#/2/1)
-* [國旗](https://40823235.github.io/cp2019/reveal/index.html#/2/2)
-* [心得](https://40823235.github.io/cp2019/reveal/index.html#/2/3)
+* [溫度轉換](https://40823235.github.io/cp2019/reveal/index.html#/3)
+* [國旗](https://40823235.github.io/cp2019/reveal/index.html#/4)
+* [心得](https://40823235.github.io/cp2019/reveal/index.html#/5)
 
 
 </t>
